@@ -1,7 +1,7 @@
 import phonenumbers
 from phonenumbers import timezone, geocoder, carrier
 
-phoneNumber = phonenumbers.parse("+919595072486")
+phoneNumber = phonenumbers.parse("+9198xxx98xxx")
 
 timeZone = timezone.time_zones_for_number(phoneNumber)
 
